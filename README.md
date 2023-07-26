@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently pursuing **Full Stack Web Development Course.**
 
-- 👨‍💻 All of my projects are available at
+- 👨‍💻 All of my projects are available at <a href=" https://prahlad0x.github.io/"> Portfolio </a>
 
 - 💬 Ask me about **HTML, CSS, Node.js , JavaScript**
 
