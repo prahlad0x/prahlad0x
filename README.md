@@ -1,7 +1,7 @@
 ### Hi I'm Prahlad Kushwah 👋
 
 # 💫 About Me:
-🔭 I'm currently preparing for placements!<br><br>🌱 I’m currently pursuing Full Stack Web Development Course.<br><br>📃 Check Out my <a href="https://drive.google.com/file/d/14sV139Lc3XvhGTeg2gNW95S3dbCtHMn9/view?usp=sharing">Resume</a><br><br> 📃 Check Out my <a href="https://www.linkedin.com/in/prahlad-kushwah-931979271/">Linkedin</a><br><br>📫 Know more about me <a href="https://prahlad0x.github.io/" >Portfolio</a><br><br>😄 All of my projects are available in My <a href="https://github.com/prahad0x">Github</a> Repositories<br><br>💬 Ask me about HTML, CSS, Node.js , JavaScript<br><br>⚡ How to reach me prahladkush21@gmail.com
+🔭 I'm currently preparing for placements!<br><br>🌱 I’m currently pursuing Full Stack Web Development Course.<br><br>📃 Check Out my <a href="https://drive.google.com/file/d/1IpalnOZurQGEk8aNqAtK3az92iH3J-BP/view?usp=sharing">Resume</a><br><br> 📃 Check Out my <a href="https://www.linkedin.com/in/prahlad-kushwah-931979271/">Linkedin</a><br><br>📫 Know more about me <a href="https://prahlad0x.github.io/" >Portfolio</a><br><br>😄 All of my projects are available in My <a href="https://github.com/prahad0x">Github</a> Repositories<br><br>💬 Ask me about HTML, CSS, Node.js , JavaScript<br><br>⚡ How to reach me prahladkush21@gmail.com
 
 
 # 💻 Tech Stack:
